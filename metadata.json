@@ -1,0 +1,9 @@
+{
+  "name": "Vidya AI - Smart Study Assistant",
+  "description": "An AI-powered study companion for students in Bangladesh and India, featuring smart note scanning, personalized tutoring, and exam preparation tools.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
